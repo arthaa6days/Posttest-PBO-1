@@ -2,12 +2,14 @@
 Nama : Muhammad Rifqi Jastiartha 
 Nim:2409116117
 ---DESKRIPSI PROGRAM---
+
 Program ini adalah simulasi sederhana sistem penjualan tiket konser berbasis Java.
 Fitur utama program meliputi CRUD (Create, Read, Update, Delete) untuk data tiket konser.
 Program menggunakan ArrayList untuk menyimpan data tiket, serta percabangan dan perulangan agar menu dapat dipilih dan dijalankan berulang hingga user memilih keluar.
 Program ini terinspirasi dari konsep platform penjualan tiket online seperti Yesplis, di mana promotor konser dapat menambahkan, mengubah, dan menghapus tiket yang dijual, serta menampilkan daftar tiket kepada calon pembeli.
 
 ---ALUR PROGRAM--
+
 1.Program menampilkan menu utama yang berisi: Tambah Tiket, Lihat Tiket, Update Tiket, Hapus Tiket, dan Keluar.
 
 2.User memilih salah satu menu dengan mengetik angka yang sesuai.
